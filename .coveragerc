@@ -1,0 +1,5 @@
+[run]
+include = my_todolist_with_django/*
+omit = *migrations*, *tests*
+plugins =
+    django_coverage_plugin
